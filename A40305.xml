@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To you that are crying, what is become of our forefathers, if the light be the way which you be in, and what is become of the martyrs that suffered?</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40305</idno>
+            <idno type="STC">Wing F1964</idno>
+            <idno type="STC">ESTC R36429</idno>
+            <idno type="EEBO-CITATION">15690643</idno>
+            <idno type="OCLC">ocm 15690643</idno>
+            <idno type="VID">104402</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40305)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104402)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1593:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To you that are crying, what is become of our forefathers, if the light be the way which you be in, and what is become of the martyrs that suffered?</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1657]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: G.F.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Imperfect: stained.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:104402:1"/>
+            <!-- PDF PAGE 7 -->
+            <head>To you that are crying, What is become of our fore-Fathers, if the Light be the way which you be in, and what is become of the Martyrs that ſuffe<g ref="char:EOLhyphen"/>red?</head>
+            <p>
+               <label>ANſwer,</label> Many of the Jewes ſuffered death by the Heathen, becauſe they could not tranſgreſſe the Commands and Law of God, and ſuffered becauſe they could not eate Swines fleſh. And the Prophets of God, again, Many of them ſuffered by the Jews, who witneſſed Chriſt was to come, there was one ſlaine between the Temple and the Altar, by the Jews, which had the words, but not the life: Now many of the Jewes which had the words, cauſed others to ſuffer which had the life; but the Prophets they ſuffered for the life, and the Apoſtles they ſuffered for the denying of the Jewiſh Commandments, and their Ordi<g ref="char:EOLhyphen"/>nances, and ſaid whatſoever they ſould in the ſhambles, that they might eat; and the Jewes formerly, they had ſuffered for holding up theſe things, before the ſubſtance was come, by them that was out of the Law of God; for the Pro<g ref="char:EOLhyphen"/>phets ſuffered for many of theſe outward things, by them who had not the life, who ſaw and de<g ref="char:EOLhyphen"/>clared the ſubſtance; and theſe was for ſignes, and for wonders unto both the houſes of <hi>Iſrael:</hi>
+               <pb n="2" facs="tcp:104402:2"/>
+               <!-- PDF PAGE 8 -->
+And while the Jewes many of them ſuffered, there was ſomething ſtirring in them that carri<g ref="char:EOLhyphen"/>ed them in to the obedience to the commands of God; and when the Jewes went onely into the words from the life, they perſecuted the Pro<g ref="char:EOLhyphen"/>phets, and killed the juſt one, and perſecuted the Apoſtles, who witneſſed the juſt one.</p>
+            <p>Now theſe Jews may ſay, What is become of our fore-Fathers, that ſuffered death for obey<g ref="char:EOLhyphen"/>ing the commands of God? Theſe that perſe<g ref="char:EOLhyphen"/>cuted the Prophets, and put the Son to death, and perſecuted the Apoſtles, theſe might com<g ref="char:EOLhyphen"/>plain, and ſay, What is become of all our fore-Fathers? For that which was in their fore-Fa<g ref="char:EOLhyphen"/>thers, the life of the Law, which brought them to know the Law, and keep the Commandment, thoſe lived, and that ſuffering was accepted: But thoſe that was from the life, though they held the outward Commandment, Statutes, and Ordinances, they perſecuted the life, Chriſt Jeſus, the Prophets, and Apoſtles; and here is no talk of their fore-Fathers, or of them that ſuffered, for here is a diſtinction between them; For <hi>Abraham, David,</hi> and <hi>Moſes,</hi> ſaw the end of the pattern, which they that had got their words, which might plead what was become of their Fathers, or them that had ſuffered of the Hea<g ref="char:EOLhyphen"/>then; and thoſe that were tranſgreſſours was another ſtate from them, which ſaw through, and ſaw the end, ſo they ſtood not againſt the ſub<g ref="char:EOLhyphen"/>ſtance nor the life, but they did that bad the words and wanted the life; theſe was with the
+<pb n="3" facs="tcp:104402:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 8 -->
+life, of the Prophets judged, and the Apoſtles, as People having eyes and ſee not, and ears and hears not.</p>
+            <p>Now ſay you that calls your ſelves Chriſtians, but be out of the life of Chriſt and the Apo<g ref="char:EOLhyphen"/>ſtles, What is become of our fore Fathers, and what is become of the Martyrs that ſuffered? Alaſſe for y<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u! you are not to be compared to them; that have gotten the Martyrs words, and Chriſts and his Apoſtles words: As the Jewes was not that ſuffered death, to be compared to them that Perſecuted to death; So you differ from the Martyrs that ſuffered death, as thoſe that cau<g ref="char:EOLhyphen"/>ſed death; n<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ither are you to be numbred with them that ſuffered for the righteous Law of God, with thoſe Jewes which Perſecuted Chriſt to death, and the Apoſtles, and the Prophets. So here, now you be in a wrong meaſure, which is too ſhort in comparing your ſelvs, and making your ſelves of that number that ſuffered: but the true Meaſure makes you of that number that Perſecuted, and then ſee what become of all them, how ſhould they eſcape Hells damnation, for the leaſt degree, that is pure, that brings to ſuffer is accepted, but that which getteth the words, and cauſeth to ſuffer, is for judgement; ſo you having gotten the Apoſtles and Chriſts words and commands.</p>
+            <p>Now the Apoſtles ſuffered, and ſome of them that lived in the life, the Believers after them, as the Reco<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d of the Scripture doth make mani<g ref="char:EOLhyphen"/>feſt: but that being come which the Apoſtle
+<pb n="4" facs="tcp:104402:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 9 -->
+ſpoke of, the ſubſtance; you that have the out<g ref="char:EOLhyphen"/>ward command, and letter, and not the life, but are ſtanding up prating of the words, you are Perſecuting them, and riſing up againſt them that witneſſe the ſubſtance, the end of the Apo<g ref="char:EOLhyphen"/>ſtles words: ſo you are not to be meaſured with them that ſuffered, the Apoſtles, and Mar<g ref="char:EOLhyphen"/>tyrs, that are now Perſecuting them that are be<g ref="char:EOLhyphen"/>lievers, ſo it is now, as it was then, in this age, as it was in that age; for formerly there had ſome ſuffered for bearing Teſtimony to Gods Com<g ref="char:EOLhyphen"/>mandment, ordinances, and ſtatutes, and the ſha<g ref="char:EOLhyphen"/>dows. And when the ſubſtance was come among the Jewes that had the ſhadows, and outward commands, and the type, them that had this Per<g ref="char:EOLhyphen"/>ſecuted the ſubſtance, would not have the ſub<g ref="char:EOLhyphen"/>ſtance to rule: Meaſurable with you that be cal<g ref="char:EOLhyphen"/>led Chriſtians which now ſtands againſt the ſub<g ref="char:EOLhyphen"/>ſtance it ſelfe, who hath the outward form and command, but will not have Chriſt in the Spirit to reign, as they would not have him in the fleſh to reigne, neither would they have him in the fleſh to reign, as they would not: But the ſub<g ref="char:EOLhyphen"/>ſtance is come, whereby the End of all things is ſeen, and Heaven ſhaken, and Earth ſhaken; and a new Heaven, a new Earth is witneſſed, wherein dwelleth righteouſneſſe.</p>
+            <closer>
+               <signed>G. F.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Printed for</hi> Thomas Simmons.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
